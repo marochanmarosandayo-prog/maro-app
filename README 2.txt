@@ -1,1 +1,0 @@
-tiiny.hostにはこのzipをそのままアップロードしてください。maro.png入りです。
